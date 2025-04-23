@@ -4,7 +4,7 @@
 
 Profesor: Carlos Orella
 Estudiantes:
--Christian Cárdenas
+- Christian Cárdenas
 -
 -
 -
